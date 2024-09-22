@@ -1,0 +1,29 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Garamond', serif;
+}
+
+.hero {
+    background-color: #333;
+    color: #f5f5f5;
+    padding: 3rem 1rem;
+}
+
+.card {
+    border: 1px solid #333;
+    border-radius: 0.5rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+footer {
+    background-color: #1c1c1c;
+}
+
+button:hover {
+    background-color: #333;
+    color: #fff;
+}
